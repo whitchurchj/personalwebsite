@@ -7,7 +7,7 @@ heroImage: "/TableTopCreatureTracker.jpg"
 
 <p><b>Responsibilities: </b>Solo project, everything</p>
 <p><b>Useful links: </b>
-<br>- <a href="https://www.TableTopCreatureTracker.com/">Steam Store Page</a>
+<br>- <a href="https://TableTopCreatureTracker.com/">Steam Store Page</a>
 <br>- <a href="https://discord.gg/ethUNRYdcd">Discord Server</a>
 </p>
 
