@@ -7,7 +7,7 @@ heroImage: "/blog-placeholder-2.jpg"
 
 <p><b>Responsibilities: </b>Solo project, everything</p>
 <p><b>Useful links: </b>
-<br>- <a href="">In browser demo (coming soon)</a>
+<br>- <a href="../../Gravball webgl/gravballgl.html">In browser demo (coming soon)</a>
 <br>- <a href="https://discord.gg/p5HHCZWP9u">Discord Server</a>
 </p>
 
