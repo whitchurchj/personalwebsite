@@ -11,4 +11,4 @@ heroImage: "/TableTopCreatureTracker.jpg"
 <br>- <a href="https://discord.gg/ethUNRYdcd">Discord Server</a>
 </p>
 
-Very summary, much wow.
+This is a tool that I created originally for myself to use while running Dungeons and Dragons games. After using it for a few months I decided to release it on Steam as an easy way to distribute the software.

@@ -14,4 +14,4 @@ heroImage: "/BlindingLight.jpg"
 <br>- <a href="https://discord.gg/MwGNpCvsS4">Discord Server</a>
 </p>
 
-Very summary, much wow.
+This is a cooperative action tower defense and third-person shooter. Inspired by games such as Dungeon Defenders and Orcs Must Die!

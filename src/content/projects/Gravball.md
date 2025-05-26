@@ -11,5 +11,4 @@ heroImage: "/blog-placeholder-2.jpg"
 <br>- <a href="https://discord.gg/p5HHCZWP9u">Discord Server</a>
 </p>
 
-Very summary, much wow.
-
+This is a proof of concept demo for a puzzle game I thought of. One day I plan to go back and finish it. In it's current state it has every piece I'll need to do so. 
